@@ -1,5 +1,8 @@
 
-<Banner> 
+![Software Development](https://github.com/filippa00/filippa00/blob/main/Black%20and%20Gold%20Tech%20Website%20Developer%20LinkedIn%20Banner%20(2).png)
+
+###
+
 <h2 align="left">Hi 👋! My name is Filippa </h2>
 
 ###
@@ -33,7 +36,7 @@ I also enjoy working with API's.
 ###
 
 
-<!--<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />-->
+<!--<img src="https://raw.githubusercontent.com/filippa00/filippa00/output/snake.svg" alt="Snake animation" />-->
 
 ###
 
