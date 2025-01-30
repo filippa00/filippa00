@@ -1,5 +1,5 @@
 
-![Software Development](https://github.com/filippa00/filippa00/blob/main/Black%20and%20Gold%20Tech%20Website%20Developer%20LinkedIn%20Banner%20(2).png)
+![Software Development](https://github.com/filippa00/filippa00/blob/main/Banner.png)
 
 ###
 
