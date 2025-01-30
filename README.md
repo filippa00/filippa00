@@ -36,7 +36,7 @@ I also enjoy working with API's.
 ###
 
 
-<!--<img src="https://raw.githubusercontent.com/filippa00/filippa00/output/snake.svg" alt="Snake animation" />-->
+<img src="https://raw.githubusercontent.com/filippa00/filippa00/output/snake.svg" alt="Snake animation" />
 
 ###
 
